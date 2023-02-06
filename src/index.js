@@ -29,4 +29,4 @@ const getCountryData = function (country) {
     .then(data => renderCountry(data[0]));
 };
 
-getCountryData('Tanzania');
+getCountryData('morocco');
